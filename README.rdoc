@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is a celebration of the possibilities ruby on rails provides.
 
-Things you may want to cover:
+I am also using this app to learn to get myself to a point of a master in ruby on rails.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This app will be developed using the following steps:
+* Iterative using feature branches.
+* I will do a video demo to show how to do it in one hour or less.
