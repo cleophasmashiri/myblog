@@ -7,6 +7,28 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
+<div id="sidebar">
+      <div class="logo">
+            <%= link_to root_path do %>
+                <%= image_tag "logo.jpg" %>
+            <% end %>
+      </div>
+</div>
+
+<ul>
+  <li class="category">Website</li>
+  <li><%= link_to "Blog" %></li>
+  <li>About</li>
+</ul>
+
+<ul>
+  <li class="category">Social</li>
+  <li><a href="https://twitter.com/CleophasMashiri">Twitter</a></li>
+  <li><a href="http://za.linkedin.com/in/cleophasmashiri">Linkedin</a></li>
+  <li ><a href="https://github.com/cleophasmashiri">Github</a></li>
+  <li><a href="https://www.google.com/+CleophasMashiri">Google+</a></li>
+  <li><a href="mailto:cleophasmashiri@gmail.com">Email</a></li>
+</ul>
 
 <%= yield %>
 
