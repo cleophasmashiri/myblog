@@ -1,9 +1,18 @@
 == README
 
-This application is a celebration of the possibilities ruby on rails provides.
+This app is a celebration of the possibilities ruby on rails provides.
 
 I am also using this app to learn to get myself to a point of a master in ruby on rails.
 
-This app will be developed using the following steps:
+It will be developed using the following steps:
 * Iterative using feature branches.
-* I will do a video demo to show how to do it in one hour or less.
+* I will do a video demo to teach others how to do it in one hour or less.
+
+Features
+* Manage posts.
+* Make comments.
+* Authentication.
+* Make it pretty.
+* Authorizatiuon.
+
+
