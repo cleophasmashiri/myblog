@@ -4,7 +4,7 @@ class CommentsController < ApplicationController
       if @post.comments.create(params[:comment].permit(:name, :body))
           redirect_to post_path(@post)
       else
-          #render post_path( @post)
+          render  post_path(@post)
       end
     end
 
